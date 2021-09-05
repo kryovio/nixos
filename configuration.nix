@@ -29,7 +29,7 @@
         wget
         vim
         firefox
-    ]
+    ];
 
     sound.enable = true;
     hardware.pulseaudio.enable = true;
